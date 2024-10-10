@@ -23,9 +23,7 @@ const AboutMe = () => {
               />
               </h1>
         <p className='text-purple-300'>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit aspernatur esse quis maxime, vitae a temporibus libero id atque quia quod doloribus illum labore officiis dicta beatae tenetur, pariatur dolore!
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, esse voluptatum aut rerum deleniti, dolore magnam eius illum dolores fugiat natus error sit et, quasi inventore eos unde recusandae mollitia.
-        </p>
+          I am a passionate web developer with experience in building dynamic and responsive websites using HTML, CSS, TypeScript, and Next.js. I enjoy crafting clean, user-friendly interfaces and bringing ideas to life through code. With a strong focus on modern web technologies, I strive to create seamless and efficient digital experiences. Whether it's developing reusable components or optimizing performance, I'm always eager to tackle new challenges and learn along the way. </p>
       </div>
       {/* image of personal info section */}
       <Image data-aos="zoom-in" data-aos-anchor-placement="top-center" src={Asserts} 
