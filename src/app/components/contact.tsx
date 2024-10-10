@@ -10,8 +10,7 @@ const Contact = () => {
         Contact Us
       </h1>
       <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-        Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-        gentrify.
+       Feel free to reach out if you'd like to collaborate or have any questions. I'm always open to new opportunities and connections!
       </p>
     </div>
     <div className="lg:w-1/2 md:w-2/3 mx-auto">
@@ -71,20 +70,6 @@ const Contact = () => {
             Pakistan
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-      <a className="ml-3 text-slate-900">
-        <svg
-          fill="none"
-          stroke="currentColor"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          strokeWidth={2}
-          className="w-5 h-5"
-          viewBox="0 0 24 24"
-        >
-          <rect width={20} height={20} x={2} y={2} rx={5} ry={5} />
-          <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01" />
-        </svg>
-      </a>
       <a href='https://www.linkedin.com/in/maryam-shakeel-5720a12b5/' className="ml-3 text-gray-900">
         <svg
           fill="currentColor"
